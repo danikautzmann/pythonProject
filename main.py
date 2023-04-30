@@ -12,7 +12,7 @@ if op == '+' or op == '-' or op == '*' or op == '/':
 
 while(op != 's'):
     if (op == '+'):
-        res = x+y
+        res = x + y
         print('Resultado: {} + {} = {}'.format(x,y, res))
 
     elif (op == '-'):
